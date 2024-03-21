@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algoritmo-KNN.iml" filepath="$PROJECT_DIR$/.idea/Algoritmo-KNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoritmoKNN/AlgoritmoKNN.iml" filepath="$PROJECT_DIR$/AlgoritmoKNN/AlgoritmoKNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtividadeKNN/AtividadeKNN.iml" filepath="$PROJECT_DIR$/AtividadeKNN/AtividadeKNN.iml" />
+    </modules>
+  </component>
+</project>
